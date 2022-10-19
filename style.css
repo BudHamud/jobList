@@ -1,0 +1,21 @@
+.jobCard {
+  margin-top: 10px;
+  padding: 0 5px 0 5px;
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.card img {
+  width: 150px;
+}
+
+.about {
+    margin-bottom: 5px;
+}
+
+@media (max-width: 375px) {
+  .jobCard {
+    width: 90%;
+  }
+}
