@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Juan Carlos",
+    "job": "Peluquero",
+    "age": 23,
+    "score": 4,
+    "gps": 55
+  },
+  {
+    "name": "Robert Plant",
+    "job": "Jardinero",
+    "age": 55,
+    "score": 2,
+    "gps": 7
+  },
+  {
+    "name": "Mirta Lescano",
+    "job": "Artesana",
+    "age": 46,
+    "score": 5,
+    "gps": 420
+  },
+  {
+    "name": "Emilia Manson",
+    "job": "Tarotista",
+    "age": 19,
+    "score": 5,
+    "gps": 810
+  },
+  {
+    "name": "Javier Montecristo",
+    "job": "Plomero",
+    "age": 27,
+    "score": 4.5,
+    "gps": 270
+  },
+  {
+    "name": "Jorge Echeverria",
+    "job": "Albañil",
+    "age": 31,
+    "score": 3,
+    "gps": 188
+  }
+]
